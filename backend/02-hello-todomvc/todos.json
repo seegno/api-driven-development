@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "completed": true,
+      "title": "01 - Preparing your environment"
+    },
+    {
+      "id": 2,
+      "completed": false,
+      "title": "02 - Setting up a reference API"
+    },
+    {
+      "id": 3,
+      "completed": false,
+      "title": "03 - A brief introduction to web frameworks with Koa"
+    },
+    {
+      "id": 4,
+      "completed": false,
+      "title": "03 - CRUD endpoints"
+    },
+    {
+      "id": 5,
+      "completed": false,
+      "title": "04 - Testing your API like a pro"
+    },
+    {
+      "id": 6,
+      "completed": false,
+      "title": "05 - Nothing is finished until its perfect"
+    }
+  ]
+}

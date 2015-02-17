@@ -1,0 +1,5 @@
+node_modules/
+backend/**/db-test
+frontend/js/bundle.js
+frontend/js/bundle.min.js
+
