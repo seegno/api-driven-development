@@ -1,4 +1,4 @@
-# 03. CRUD Endpoints
+# 04. CRUD Endpoints
 
 1. Let's set up a few more endpoints this time:
 
