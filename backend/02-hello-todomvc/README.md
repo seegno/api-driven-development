@@ -3,7 +3,7 @@
 1. Let's mock our API for now with a fake json data store.
 
   * npm install
-  * ./node_modules/.bin/json-server todos.json
+  * npm start
 
 2. Run the `todomvc` app:
 
