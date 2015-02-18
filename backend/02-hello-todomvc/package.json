@@ -8,7 +8,7 @@
   "repository": "https://github.com/seegno/sei-workshop",
   "scripts": {
     "start": "./node_modules/.bin/json-server todos.json"
-  }
+  },
   "dependencies": {
     "json-server": "^0.6.2"
   }
